@@ -2,7 +2,7 @@ import { useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
 
 import logo from "./playlist_picture_login.png";
-import { createUser, fazLogin, findUserByEmail } from "./Service";
+import { createUser, fazLogin } from "./Service";
 
 export default function Register() {
   let navigate = useNavigate();
