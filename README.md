@@ -3,14 +3,13 @@
 ## Comandos disponíveis
 No diretório raiz do projeto, você pode rodar os seguintes comandos:
 
-### `npx json-server --watch db.json --port 8000`
-Executa o server JSON. Utilizado para as requisições.\
-Pode ser visualizado em [http://localhost:8000](http://localhost:8000).
-
-
 ### `npm install`
 
 Instala as dependências da aplicação.
+
+### `npx json-server --watch db.json --port 8000`
+Executa o server JSON. Utilizado para as requisições.\
+Pode ser visualizado em [http://localhost:8000](http://localhost:8000).
 
 ### `npm start`
 
