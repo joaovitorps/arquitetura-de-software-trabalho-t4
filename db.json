@@ -1,0 +1,29 @@
+{
+  "midias": [
+    {
+      "name": "Livro 1",
+      "type": "Livro",
+      "id": 1
+    },
+    {
+      "name": "Podcast 1",
+      "type": "Podcast",
+      "desc": "Aqui vai uma descrição",
+      "id": 2
+    }
+  ],
+  "users": [
+    {
+      "name": "João Santos",
+      "mail": "joao@gmail.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "name": "Robeto",
+      "mail": "roberto@gmail.com",
+      "password": "123",
+      "id": 2
+    }
+  ]
+}
